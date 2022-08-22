@@ -31,6 +31,7 @@ Pull Requests Are Welcome. For Major Changes, Please Open An Issue First To Disc
 
 
 Please Make Sure To Update Tests As Appropriate
+Please cheack out new release
 
 
 ## License
