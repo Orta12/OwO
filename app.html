@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="shortcut icon" href="images/Logo.png" type="image/x-icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/app.css">
+        <title>Code Editor</title>
+
+    </head>
+
+    <body>
+
+        <div id="previwe_"> <iframe frameborder="0" id="previwe"></iframe></div>
+
+        <div id="main_">
+            <div class="top">
+
+                <a href="index.html">
+                    <img class="image1" role="link" id="home-" src="images/home.png" alt="">
+                </a>
+
+                <button onclick="div2()" class="buttons" id="bt-1">Playground</button>
+                <button onclick="div1()" class="buttons" id="bt-2">Preview</button>
+                <button id="theam" onclick="change()" class="buttons">Dark</button>
+                <button id="theam1" onclick="change1()" class="buttons">Light</button>
+
+                <img id="run" src="images/Run.png" role="button" class="images buttons">
+                <img id="download" src="images/save.png" role="button" class="images4 buttons">
+
+
+                <div class="width_of_link">
+                    <span class="link" id="link">http://127.0.0.1:3002/app.html</span>
+                    <span class="link left" id="left">></span>
+                    <span class="link right" id="right">></span>
+                </div>
+
+            </div>
+
+            <div tabindex="4" contenteditable="" data-placeholder="@Code !" spellcheck="false" id="main_editer"
+                role="textbox">
+
+            </div>
+        </div>
+
+
+
+        <script src="js/app.js"></script>
+    </body>
+
+</html>
