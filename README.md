@@ -8,7 +8,9 @@ A Web Based Live Code Editor
 ## Installation
 
 Wanna try it
+
 Netlify link - https://eitecode.netlify.app/
+
 Github pages - https://orta12.github.io/OwO/
 
 
