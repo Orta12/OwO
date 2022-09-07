@@ -339,7 +339,7 @@ button:focus {
     }
 
     #run {
-        left: 6px;
+        left: 21px;
     }
 
     .buttons {
@@ -358,17 +358,17 @@ button:focus {
     #download {
         display: inline-block;
         transform: translatex(15px) translatey(-35px) !important;
-        left: 75px;
+        left: -43px;
     }
 
     .top a .image1 {
-        left: 250px;
+        left: 287px;
         top: 9px !important;
     }
 
 }
 
-@media (max-width:375px) {
+@media (max-width:360px) {
 
 
     html {
@@ -403,7 +403,7 @@ button:focus {
     }
 
     #run {
-        left: 12px;
+        left: -9px;
     }
 
     .buttons {
@@ -421,13 +421,13 @@ button:focus {
 
     #download {
         display: inline-block;
-        transform: translatex(216px) translatey(-68px) !important;;
-        left: 59px;
+        transform: translatex(224px) translatey(-27px) !important;
+        left: 99px;
     }
 
     .top a .image1 {
-        left:315px;
-        top: 9px !important;
+        left: 327px;
+        top: 88px !important;
 
     }
 
