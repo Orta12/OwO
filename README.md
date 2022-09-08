@@ -11,10 +11,6 @@ Wanna try it
 
 Netlify link - https://eitecode.netlify.app/
 
-Github pages - https://orta12.github.io/OwO/
-
-
-
 ## Usage
 
 
