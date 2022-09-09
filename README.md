@@ -9,7 +9,7 @@ A Web Based Live Code Editor
 
 Wanna try it
 
-Netlify link - https://eitecode.netlify.app/
+link of my project - https://elitecode.netlify.app/
 
 ## Usage
 
