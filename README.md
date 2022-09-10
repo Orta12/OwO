@@ -2,7 +2,7 @@
 # OwO
 
 
-A Web Based Live Code Editor 
+A Web Based Live Code Editor use web to build web
 
 
 ## Installation
