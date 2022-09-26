@@ -280,10 +280,6 @@ function editero_heart() {
 		}
 	});
 
-
-
-
-
 	change = () => {
 		main_editero.style.background = "#282C35";
 		main_editero.style.color = "#719ea0";
@@ -310,14 +306,12 @@ function editero_heart() {
 		document.getElementById("download").src = "images/save.png";
 	}
 
-
-
 }
 editero_heart();
 
 function div1() {
 	document.getElementById("previwe").style.display = "block";
-	document.getElementById("main_editer").style.display = "none"
+	document.getElementById("main_editer").style.display = "none";
 }
 
 function div2() {

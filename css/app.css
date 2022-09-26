@@ -78,6 +78,7 @@ a {
 }
 
 #main_editer {
+
 	padding: 50px;
 	overflow-x: hidden;
 	font-family: 'Roboto Mono', monospace;
@@ -97,6 +98,7 @@ a {
 	overflow-y: visible;
 	box-shadow: 0 8px 12px rgb(0 0 0 / 10%);
 	padding-top: 82px;
+	outline: none;
 
 }
 
@@ -135,7 +137,7 @@ li {
 	top: -23px;
 }
 
-#main_editer:focus {
+mac #main_editer:focus {
 	outline: none;
 	resize: horizontal;
 }
@@ -403,7 +405,7 @@ button:focus {
 
 	.buttons {
 		position: relative;
-		left: 4px;
+		left: -7px;
 	}
 
 
@@ -474,7 +476,7 @@ button:focus {
 	}
 
 	#run {
-		left: 21px;
+		left: 12px;
 	}
 
 	.buttons {
@@ -482,6 +484,11 @@ button:focus {
 		left: 4px;
 	}
 
+	#save {
+		position: relative;
+		left: 333px;
+		top: 10px;
+	}
 
 	.buttons button {
 		left: 25px;
@@ -546,6 +553,11 @@ button:focus {
 		left: 4px;
 	}
 
+	#save {
+		position: relative;
+		left: 342px;
+		top: 46px;
+	}
 
 	.buttons button {
 		left: 25px;

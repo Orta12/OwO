@@ -4,493 +4,494 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab&family=Ubuntu:ital@0;1&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 body,
 html {
-    height: 100vh;
+	height: 100vh;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    background: fixed;
-    background: linear-gradient(90deg, #fdfbfb 0%, #ebedee 100%);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    overflow-x: hidden;
-    font-family: Alliance1, Alliance1Fallback, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	margin: 0;
+	padding: 0;
+	background: fixed;
+	background: linear-gradient(90deg, #fdfbfb 0%, #ebedee 100%);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	overflow-x: hidden;
+	font-family: Alliance1, Alliance1Fallback, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .img1 {
-    top: -16px;
-    position: relative;
-    margin: auto;
-    margin-top: 27px;
-    left: 605px;
+	top: -16px;
+	position: relative;
+	margin: auto;
+	margin-top: 27px;
+	left: 605px;
 }
 
 .heading1,
 .boot {
-    text-align: center;
-    text-decoration: none;
-    color: rgb(128 128 128);
-    margin-bottom: 25px;
-    font-family: 'Poppins', sans-serif;
-    text-transform: capitalize;
-    position: relative;
-    left: 444px;
-    width: 455px;
-    font-weight: 500;
-    word-spacing: -3px;
+	text-align: center;
+	text-decoration: none;
+	color: rgb(128 128 128);
+	margin-bottom: 25px;
+	font-family: 'Poppins', sans-serif;
+	text-transform: capitalize;
+	position: relative;
+	left: 444px;
+	width: 455px;
+	font-weight: 500;
+	word-spacing: -3px;
 }
 
 .main {
-    margin-top: 25px;
-    position: relative;
-    left: 177px;
-    margin-bottom: 34px;
-    border-radius: 40px;
+	margin-top: 25px;
+	position: relative;
+	left: 177px;
+	margin-bottom: 34px;
+	border-radius: 40px;
 }
 
 .bt-1 {
-    font-family: "Open Sans", sans-serif;
-    font-weight: lighter;
-    padding: 8.5px 23px;
-    color: rgb(128 128 128);
-    position: relative; 
-    left: 591px;
-    bottom: 4px;
-    border-radius: 4px;
-    border: 2px solid rgb(245 245 245);
-    background-color: rgb(255 255 255);
-    display: block;
-    width: fit-content;
-    text-decoration: none;
-    word-spacing: 2px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: lighter;
+	padding: 8.5px 23px;
+	color: rgb(128 128 128);
+	position: relative;
+	left: 591px;
+	bottom: 4px;
+	border-radius: 4px;
+	border: 2px solid rgb(245 245 245);
+	background-color: rgb(255 255 255);
+	display: block;
+	width: fit-content;
+	text-decoration: none;
+	word-spacing: 2px;
 }
 
 .bt-2 {
-    bottom: 24px;
-    left: 615px;
+	bottom: 24px;
+	left: 615px;
 }
 
 a:hover {
-    opacity: 90%;
-    box-shadow: 0px 0px 8px 0px rgb(128 128 128);
-    transition: all 400ms ease-in-out;
-    text-decoration: underline;
+	opacity: 90%;
+	box-shadow: 0px 0px 8px 0px rgb(128 128 128);
+	transition: all 400ms ease-in-out;
+	text-decoration: underline;
 }
 
 .heading2 {
-    font-family: 'Poppins', sans-serif;
-    width: 934px;
-    margin-top: 82px;
-    position: relative;
-    margin-bottom: 41px;
-    text-align: center;
-    color: rgb(87, 102, 126);
-    font-size: x-large;
-    font-weight: 400;
-    left: 207px;
-    letter-spacing: -1px;
+	font-family: 'Poppins', sans-serif;
+	width: 934px;
+	margin-top: 82px;
+	position: relative;
+	margin-bottom: 41px;
+	text-align: center;
+	color: rgb(87, 102, 126);
+	font-size: x-large;
+	font-weight: 400;
+	left: 207px;
+	letter-spacing: -1px;
 }
 
 
 .glass1 {
-    position: relative;
-    box-shadow: 0 0 0 0.0px #d0d4db, 0 30px 30px rgb(0 0 0 / 7%), 0 15px 15px rgb(0 0 0 / 6%), 0 10px 8px rgb(0 0 0 / 5%), 0 4px 4px rgb(0 0 0 / 4%), 0 2px 2px rgb(0 0 0 / 3%);
-    width: 9%;
-    height: 106px;
-    display: inline-block;
-    position: relative;
-    opacity: 70%;
-    margin-bottom: 16px !important;
-    border-radius: 6px !important;
-    top: 269px;
-    left: -18px;
-    z-index: 1;
+	position: relative;
+	box-shadow: 0 0 0 0.0px #d0d4db, 0 30px 30px rgb(0 0 0 / 7%), 0 15px 15px rgb(0 0 0 / 6%), 0 10px 8px rgb(0 0 0 / 5%), 0 4px 4px rgb(0 0 0 / 4%), 0 2px 2px rgb(0 0 0 / 3%);
+	width: 9%;
+	height: 106px;
+	display: inline-block;
+	position: relative;
+	opacity: 70%;
+	margin-bottom: 16px !important;
+	border-radius: 6px !important;
+	top: 269px;
+	left: -18px;
+	z-index: 1;
 }
 
 .glass2 {
-    left: -132px;
-    top: 717px;
-    padding: 7px !important;
+	left: -132px;
+	top: 717px;
+	padding: 7px !important;
 }
 
 .glass3 {
-    left: 685px;
-    top: 717px;
-    padding: 7px !important;
+	left: 685px;
+	top: 717px;
+	padding: 7px !important;
 }
 
 .glass4 {
-    border-color: #d0d4db;
-    left: 567px;
-    top: 278px;
-    padding: 7px !important;
+	border-color: #d0d4db;
+	left: 567px;
+	top: 278px;
+	padding: 7px !important;
 }
 
 .glass5 {
-    margin-top: 43px;
-    width: 524px;
-    height: fit-content;
-    top: -2px;
-    left: 21px;
-    padding: 23px 23px
+	margin-top: 43px;
+	width: 524px;
+	height: fit-content;
+	top: -2px;
+	left: 21px;
+	padding: 23px 23px
 }
 
 .live {
-    color: #57667e;
-    font-family: 'Ubuntu', sans-serif;
-    margin-bottom: 12px;
+	color: #57667e;
+	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 12px;
 }
 
 .para1 {
-    font-family: 'Poppins', sans-serif;
-    word-wrap: break-word;
+	font-family: 'Poppins', sans-serif;
+	word-wrap: break-word;
 }
 
 .dark_ {
-    left: 157px;
-    top: -27px;
-    height: 420px;
+	left: 157px;
+	top: -27px;
+	height: 420px;
 }
 
 .illo {
-    left: -6px;
-    position: relative;
+	left: -6px;
+	position: relative;
 }
 
 .dark {
-    position: relative;
-    left: -6px;
+	position: relative;
+	left: -6px;
 }
 
 .fast {
-    margin: auto auto;
-    position: relative;
-    left: 167px;
+	margin: auto auto;
+	position: relative;
+	left: 167px;
 }
 
 .faster_ {
-    position: relative;
-    left: 362px;
+	position: relative;
+	left: 362px;
 }
 
 .boot {
-    text-align: center;
-    font-weight: 500;
-    color: gray;
-    width: auto;
-    left: 0px;
-    display: block;
-    margin-bottom: 7px;
+	text-align: center;
+	font-weight: 500;
+	color: gray;
+	width: auto;
+	left: 0px;
+	display: block;
+	margin-bottom: 7px;
 }
 
 .bt-4 {
-    margin-top: 12px;
+	margin-top: 12px;
 }
 
 
 @media screen and (max-width:800px) {
 
-    html {
-        width: 100vw;
-        overflow-x: hidden;
-    }
+	html {
+		width: 100vw;
+		overflow-x: hidden;
+	}
 
-    .img1 {
-        position: relative;
-        left: 374px;
-        top: -40px;
-        width: 126px;
-        margin-top: 60px;
-    }
+	.img1 {
+		position: relative;
+		left: 374px;
+		top: -40px;
+		width: 126px;
+		margin-top: 60px;
+	}
 
-    .heading1,
-    .heading2 {
-        position: relative;
-        left: 151px;
-        width: 542px;
-        top: -42px;
-        text-align: center;
-    }
+	.heading1,
+	.heading2 {
+		position: relative;
+		left: 151px;
+		width: 542px;
+		top: -42px;
+		text-align: center;
+	}
 
-    .bt-1 {
-        position: relative;
-        left: 368px;
-        top: -50px;
-    }
+	.bt-1 {
+		position: relative;
+		left: 368px;
+		top: -50px;
+	}
 
-    .main {
-        position: relative;
-        left: 24px;
-        top: -93px;
-        margin-top: 65px;
-        width: 760.6800000000001px;
-    }
+	.main {
+		position: relative;
+		left: 24px;
+		top: -93px;
+		margin-top: 65px;
+		width: 760.6800000000001px;
+	}
 
-    .glass1 {
-        z-index: -1;
-        position: relative;
-        left: 1091px;
-    }
+	.glass1 {
+		z-index: -1;
+		position: relative;
+		left: 1091px;
+	}
 
-    .heading2 {
-        width: 776px;
-        left: 23px;
-        font-size: large;
-        top: -199px;
-    }
+	.heading2 {
+		width: 776px;
+		left: 23px;
+		font-size: large;
+		top: -199px;
+	}
 
-    .bt-2 {
-        left: 343px;
-        top: -227px;
-        margin-bottom: -213px;
-    }
+	.bt-2 {
+		left: 343px;
+		top: -227px;
+		margin-bottom: -213px;
+	}
 
-    .live_,
-    .dark_,
-    .faster_ {
-        position: relative;
-        left: 48px;
-        width: 641px;
-        height: fit-content;
-    }
+	.live_,
+	.dark_,
+	.faster_ {
+		position: relative;
+		left: 48px;
+		width: 641px;
+		height: fit-content;
+	}
 
-    .illo,
-    .dark,
-    .fast {
-        width: 660px;
-        position: relative;
-        left: -10px;
-        height: fit-content;
-    }
-    .fast{
-        width:min-content;
-        left: 210px;
-    }
+	.illo,
+	.dark,
+	.fast {
+		width: 660px;
+		position: relative;
+		left: -10px;
+		height: fit-content;
+	}
 
-    .boot {
-        font-size: x-large;
-    }
+	.fast {
+		width: min-content;
+		left: 210px;
+	}
 
-    .bt-4 {
-        position: relative;
-        top: -10px;
-        left: 289px;
-    }
+	.boot {
+		font-size: x-large;
+	}
+
+	.bt-4 {
+		position: relative;
+		top: -10px;
+		left: 289px;
+	}
 
 }
 
 
 @media screen and (max-width:480px) {
 
-    html {
-        width: 100vw;
-        overflow-x: hidden;
-    }
+	html {
+		width: 100vw;
+		overflow-x: hidden;
+	}
 
-    .img1 {
-        position: relative;
-        left: 204px;
-        top: -40px;
-        width: 73px;
-        margin-top: 60px;
-    }
+	.img1 {
+		position: relative;
+		left: 204px;
+		top: -40px;
+		width: 73px;
+		margin-top: 60px;
+	}
 
-    .heading1,
-    .heading2 {
-        position: relative;
-        left: 132px;
-        width: 203px;
-        top: -42px;
-        text-align: center;
-    }
+	.heading1,
+	.heading2 {
+		position: relative;
+		left: 132px;
+		width: 203px;
+		top: -42px;
+		text-align: center;
+	}
 
-    .bt-1 {
-        position: relative;
-        left: 165px;
-        top: -50px;
-    }
+	.bt-1 {
+		position: relative;
+		left: 165px;
+		top: -50px;
+	}
 
-    .main {
-        position: relative;
-        left: 24px;
-        top: -93px;
-        margin-top: 65px;
-        width: 434.68000000000006px;
-    }
+	.main {
+		position: relative;
+		left: 24px;
+		top: -93px;
+		margin-top: 65px;
+		width: 434.68000000000006px;
+	}
 
-    .glass1 {
-        z-index: -1;
-        position: relative;
-        left: 1091px;
-    }
+	.glass1 {
+		z-index: -1;
+		position: relative;
+		left: 1091px;
+	}
 
-    .heading2 {
-        width: 335px;
-        left: 72px;
-        font-size: initial;
-        top: -199px;
-    }
+	.heading2 {
+		width: 335px;
+		left: 72px;
+		font-size: initial;
+		top: -199px;
+	}
 
-    .bt-2 {
-        left: 163px;
-        top: -227px;
-        margin-bottom: -213px;
-    }
+	.bt-2 {
+		left: 163px;
+		top: -227px;
+		margin-bottom: -213px;
+	}
 
-    .live_,
-    .dark_,
-    .faster_ {
-        position: relative;
-        left: 48px;
-        width: 335px;
-    }
+	.live_,
+	.dark_,
+	.faster_ {
+		position: relative;
+		left: 48px;
+		width: 335px;
+	}
 
-    .illo,
-    .dark,
-    .fast {
-        width: 356px;
-        position: relative;
-        left: -10px;
-    }
+	.illo,
+	.dark,
+	.fast {
+		width: 356px;
+		position: relative;
+		left: -10px;
+	}
 
-    .boot {
-        font-size: x-large;
-    }
+	.boot {
+		font-size: x-large;
+	}
 
-    .bt-4 {
-        position: relative;
-        top: -10px;
-        left: 120px;
-    }
+	.bt-4 {
+		position: relative;
+		top: -10px;
+		left: 120px;
+	}
 
 }
 
 @media screen and (max-width:393px) {
-    .img1 {
-        position: relative;
-        left: 146px;
-    }
+	.img1 {
+		position: relative;
+		left: 146px;
+	}
 
-    .heading1,
-    .heading2 {
-        position: relative;
-        left: 92px;
-    }
+	.heading1,
+	.heading2 {
+		position: relative;
+		left: 92px;
+	}
 
-    .main {
-        position: relative;
-        left: 16px;
-        top: -93px;
-        margin-top: 65px;
-        width: 350.68000000000006px;
-    }
+	.main {
+		position: relative;
+		left: 16px;
+		top: -93px;
+		margin-top: 65px;
+		width: 350.68000000000006px;
+	}
 
-    .heading2 {
-        left: 36px;
-        top: -205px;
-    }
+	.heading2 {
+		left: 36px;
+		top: -205px;
+	}
 
-    .bt-1 {
-        position: relative;
-        left: 116px;
-        top: -50px;
-    }
+	.bt-1 {
+		position: relative;
+		left: 116px;
+		top: -50px;
+	}
 
-    .bt-2 {
-        position: relative;
-        left: 120px;
-        top: -233px;
-        margin-bottom: -268px;
-    }
+	.bt-2 {
+		position: relative;
+		left: 120px;
+		top: -233px;
+		margin-bottom: -268px;
+	}
 
-    .live_,
-    .dark_,
-    .faster_ {
-        position: relative;
-        left: 38px;
-        width: 262px;
-    }
+	.live_,
+	.dark_,
+	.faster_ {
+		position: relative;
+		left: 38px;
+		width: 262px;
+	}
 
-    .illo,
-    .dark,
-    .fast {
-        width: 287px;
-        position: relative;
-        left: -13px;
-    }
+	.illo,
+	.dark,
+	.fast {
+		width: 287px;
+		position: relative;
+		left: -13px;
+	}
 
-    .bt-4 {
-        top: -12px;
-        left: 84px;
-    }
+	.bt-4 {
+		top: -12px;
+		left: 84px;
+	}
 
 }
 
 @media screen and (max-width:320px) {
-    .img1 {
-        position: relative;
-        left: 119px;
-    }
+	.img1 {
+		position: relative;
+		left: 119px;
+	}
 
-    .heading1,
-    .heading2 {
-        position: relative;
-        left: 53px;
-    }
+	.heading1,
+	.heading2 {
+		position: relative;
+		left: 53px;
+	}
 
-    .main {
-        position: relative;
-        left: 16px;
-        top: -93px;
-        margin-top: 65px;
-        width: 350.68000000000006px;
-    }
+	.main {
+		position: relative;
+		left: 16px;
+		top: -93px;
+		margin-top: 65px;
+		width: 350.68000000000006px;
+	}
 
-    .heading2 {
-        left: 4px;
-        width: 296px;
-        top: -205px;
-    }
+	.heading2 {
+		left: 4px;
+		width: 296px;
+		top: -205px;
+	}
 
-    .bt-2 {
-        position: relative;
-        left: 107px;
-        top: -233px;
-        margin-bottom: -268px;
-    }
+	.bt-2 {
+		position: relative;
+		left: 107px;
+		top: -233px;
+		margin-bottom: -268px;
+	}
 
-    .live_,
-    .dark_,
-    .faster_ {
-        position: relative;
-        left: 5px;
-        width: 262px;
-    }
+	.live_,
+	.dark_,
+	.faster_ {
+		position: relative;
+		left: 5px;
+		width: 262px;
+	}
 
-    .illo,
-    .dark,
-    .fast {
-        width: 285px;
-        position: relative;
-        left: -10px;
-    }
+	.illo,
+	.dark,
+	.fast {
+		width: 285px;
+		position: relative;
+		left: -10px;
+	}
 
-    .bt-1 {
-        position: relative;
-        left: 87px;
-    }
+	.bt-1 {
+		position: relative;
+		left: 87px;
+	}
 
-    .bt-4 {
-        top: -10px;
-        left: 50px;
-        background: rgb(255 255 255);
-    }
+	.bt-4 {
+		top: -10px;
+		left: 50px;
+		background: rgb(255 255 255);
+	}
 }
