@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Project Planner</title>
+	<link rel="stylesheet" href="css/project.css">
+</head>
+
+<body>
+
+	<h1 class="heading1">Project Planner</h1>
+	<p class="para1">Built like a spreadsheet, project tables give you a live canvas to filter, sort, and group, Tailor them to your needs with custom fields and saved views.
+	</p>
+
+	<label class="lable1" for="item">Add Your Item</label><br>
+	<input type="text" name="input1" id="item" class="input1">
+	<div class="button">
+		<button class="bt-1" id="add" onclick="add()">Add</button>
+		<button class="bt-1" id="delete" onclick="remove()">Delete</button>
+		<button class="bt-1" id="latest" onclick="latest()">Latest</button>
+		<a href="app.html">
+			<button class="bt-1" id="link">Editeor</button>
+		</a>
+	</div>
+	<label for="Lists" class="lable3">Lists - </label>
+
+
+	<div class="todo">
+		<ul id="box"></ul>
+	</div>
+
+
+
+	<script src="js/project.js"></script>
+</body></html>

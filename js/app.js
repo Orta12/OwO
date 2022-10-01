@@ -5,6 +5,8 @@ const save = document.getElementById("save");
 const theam = document.getElementById("theam");
 const theam1 = document.getElementById("theam1");
 const suggest = document.getElementById("suggest");
+const account = document.getElementById("account");
+
 
 var li0 = document.createElement("li");
 var li1 = document.createElement("li");
@@ -14,13 +16,13 @@ var li4 = document.createElement("li");
 var li5 = document.createElement("li");
 var li6 = document.createElement("li");
 
-li0.classList.add = ("lis");
-li1.classList.add = ("lis");
-li2.classList.add = ("lis");
-li3.classList.add = ("lis");
-li4.classList.add = ("lis");
-li5.classList.add = ("lis");
-li6.classList.add = ("lis");
+li0.classList.add("lis");
+li1.classList.add("lis");
+li2.classList.add("lis");
+li3.classList.add("lis");
+li4.classList.add("lis");
+li5.classList.add("lis");
+li6.classList.add("lis");
 
 function editero_heart() {
 
@@ -305,6 +307,8 @@ function editero_heart() {
 		document.getElementById("run").src = "images/Run.png";
 		document.getElementById("download").src = "images/save.png";
 	}
+
+
 
 }
 editero_heart();

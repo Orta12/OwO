@@ -21,6 +21,34 @@ a {
 	top: 44px;
 }
 
+#project_link {
+	position: relative;
+	top: 36px;
+	left: -5px;
+	font-size: small;
+	z-index: 1;
+	text-decoration: underline;
+}
+
+#project_link:hover {
+	transition: 200ms ease-in;
+	color: blue;
+}
+
+.d1 {
+	background-color: aliceblue;
+	z-index: 1;
+}
+
+#account {
+	position: relative;
+	left: 769px;
+	top: 46px;
+	width: 27px;
+	border-radius: 30px;
+	background: #0000;
+}
+
 .link {
 	z-index: 1;
 	position: relative;
@@ -36,8 +64,6 @@ a {
 	font-family: 'Roboto Mono', monospace;
 
 }
-
-
 
 #left {
 	position: relative;
@@ -137,7 +163,7 @@ li {
 	top: -23px;
 }
 
-mac #main_editer:focus {
+#main_editer:focus {
 	outline: none;
 	resize: horizontal;
 }
@@ -276,7 +302,6 @@ button:focus {
 		overflow-y: hidden;
 	}
 
-
 	body {
 		margin: 0;
 		padding: 0;
@@ -287,6 +312,15 @@ button:focus {
 		background-size: cover;
 		font-family: 'Roboto Mono', monospace;
 		background: whitesmoke;
+	}
+
+	#project_link {
+		position: relative;
+		top: -22px;
+		left: 281px;
+		font-size: small;
+		z-index: 1;
+		text-decoration: underline;
 	}
 
 	.template {
@@ -328,7 +362,11 @@ button:focus {
 		left: -34px;
 	}
 
-
+	#save {
+		position: relative;
+		left: 46px;
+		top: 80px;
+	}
 
 	#main_ .top .buttons {
 		transform: translatex(-20px) translatey(-34px);
@@ -348,15 +386,13 @@ button:focus {
 	}
 
 	.top a .image1 {
-		left: 293px;
-		top: 9px !important;
+		left: 378px;
+		top: 83px !important;
 	}
 
 }
 
-@media (max-width:393px) {
-
-
+@media (max-width:390px) {
 	html {
 		width: 100vw;
 		overflow-x: hidden;
@@ -403,6 +439,12 @@ button:focus {
 		left: 21px;
 	}
 
+	#save {
+		position: relative;
+		left: 28px;
+		top: 80px;
+	}
+
 	.buttons {
 		position: relative;
 		left: -7px;
@@ -423,8 +465,8 @@ button:focus {
 	}
 
 	.top a .image1 {
-		left: 287px;
-		top: 9px !important;
+		left: 360px;
+		top: 83px !important;
 	}
 
 }
@@ -477,6 +519,7 @@ button:focus {
 
 	#run {
 		left: 12px;
+		top: 123px;
 	}
 
 	.buttons {
@@ -486,8 +529,8 @@ button:focus {
 
 	#save {
 		position: relative;
-		left: 333px;
-		top: 10px;
+		left: 361px;
+		top: 54px;
 	}
 
 	.buttons button {
@@ -504,8 +547,14 @@ button:focus {
 	}
 
 	.top a .image1 {
-		left: 287px;
-		top: 9px !important;
+		left: 344px;
+		top: 7px !important;
+	}
+
+	#project_link {
+		position: relative;
+		left: 239px;
+		top: -33px;
 	}
 
 }
@@ -523,6 +572,14 @@ button:focus {
 	body {
 		overflow-x: hidden;
 		overflow-y: hidden;
+	}
+
+	#project_link {
+		position: relative;
+		left: 221px;
+		text-decoration: none;
+		top: -31px;
+		z-index: 8;
 	}
 
 	#main_editer {
@@ -545,18 +602,20 @@ button:focus {
 	}
 
 	#run {
-		left: -9px;
+		left: -8px;
+		top: 48px;
 	}
 
 	.buttons {
 		position: relative;
-		left: 4px;
+		left: -11px;
 	}
 
 	#save {
 		position: relative;
-		left: 342px;
-		top: 46px;
+		left: 343px;
+		top: 49px;
+
 	}
 
 	.buttons button {
@@ -573,7 +632,7 @@ button:focus {
 	}
 
 	.top a .image1 {
-		left: 327px;
+		left: 328px;
 		top: 88px !important;
 
 	}
@@ -584,6 +643,7 @@ button:focus {
 	}
 
 }
+
 
 @media (max-width:320px) {
 
