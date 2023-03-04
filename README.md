@@ -1,5 +1,4 @@
 
-file:///C:/Users/ACER/Desktop/Project/My%20idea/OwO/images/Logo.png
 # OwO
 
 
